@@ -1,3 +1,7 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.2] - 29 October 2019.
 
-* TODO: Describe initial release.
+* Add support for #, & and / sign.
+
+## [0.0.1] - 28 October 2019.
+
+* initial release.
