@@ -1,8 +1,8 @@
 name: url_encoder
 description: URL Encoder
 version: 0.0.1
-author: Wisnu Wijokangko
-homepage:
+author: Wisnu Wijokangko <wisnuwijo33@gmail.com>
+homepage: https://github.com/wisnuwijo/url_encoder
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
